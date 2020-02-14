@@ -1,7 +1,7 @@
 {
   "requires": true,
   "scripts": {
-    "build": "node service.js"
+    "build": "npm install & node service.js"
   },
   "dependencies": {
     "d": {
