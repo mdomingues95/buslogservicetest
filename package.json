@@ -1,6 +1,9 @@
 {
   "requires": true,
   "lockfileVersion": 1,
+  "scripts": {
+	"build": "node service.js"
+  }
   "dependencies": {
     "d": {
       "version": "1.0.1",
